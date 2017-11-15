@@ -1,1 +1,4 @@
-# Open-Source-Awakens
+# This is a big title
+### This is a smaller title 
+This is not bold text 
+**This is a bold text** 
