@@ -8,7 +8,7 @@ This is not bold text
 ***Italics
 
 
-![Choco portrait from facebook](http://www.doglib.com/2016/01/border-collie-puppies/)
+![Choco portrait from facebook](http://cdn1-www.dogtime.com/assets/uploads/gallery/border-collie-dog-breed-pictures/1-facethreequarters.jpg)
 
 # headline 
 ## headline2
