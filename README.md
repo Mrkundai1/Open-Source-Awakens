@@ -18,3 +18,8 @@ This is not bold text
 ###### headline6
 
 I am going to change this text and push it to Github 
+
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
